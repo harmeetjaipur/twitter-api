@@ -1,0 +1,29 @@
+{
+  "name": "twitter-api-find-unfollowed",
+  "version": "1.0.0",
+  "description": "find users that do not follow you back",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/harmeetjaipur/twitter-api.git"
+  },
+  "keywords": [
+    "twitter",
+    "follow",
+    "unfollow",
+    "follower"
+  ],
+  "author": "Harmeet",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/harmeetjaipur/twitter-api/issues"
+  },
+  "homepage": "https://github.com/harmeetjaipur/twitter-api#readme",
+  "dependencies": {
+    "twitter": "^1.7.1"
+  },
+  "devDependencies": {}
+}
